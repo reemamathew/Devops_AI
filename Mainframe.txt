@@ -6,4 +6,5 @@ PROGRAM DIVISION.
 PROCEDURE DIVISION.
 COMPUTE A = A+B.
 DISPLY 'SUM OF TWO NUMBERS :' A.
+DIsplay 'Added two numbers and tesed output'.
 STOP RUN.
